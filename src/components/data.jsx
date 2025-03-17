@@ -10,14 +10,14 @@ import webTrash from "../assets/Trash2Cash.png"
 
 
 export const techStack = [
-  { name: "React.js", icon: <FaReact />, percentage: 80 },
-  { name: "Java", icon: <FaJava />, percentage: 40 },
+  { name: "React.js", icon: <FaReact />, percentage: 50 },
+  { name: "Java", icon: <FaJava />, percentage: 30 },
   { name: "Python", icon: <FaPython />, percentage: 15 },
-  { name: "C++", icon: <SiCplusplus />, percentage: 80 },
+  { name: "C++", icon: <SiCplusplus />, percentage: 70 },
   { name: "C", icon: <SiC />, percentage: 35 },
-  { name: "JavaScript", icon: <FaJs />, percentage: 90 },
-  { name: "MySQL", icon: <SiMysql />, percentage: 85 },
-  { name: "TailwindCSS", icon: <SiTailwindcss />, percentage: 80 },
+  { name: "JavaScript", icon: <FaJs />, percentage: 60 },
+  { name: "MySQL", icon: <SiMysql />, percentage: 55 },
+  { name: "TailwindCSS", icon: <SiTailwindcss />, percentage: 70 },
   { name: "HTML", icon: <FaHtml5 />, percentage: 100 },
   { name: "CSS", icon: <FaCss3Alt />, percentage: 95 },
 ];
