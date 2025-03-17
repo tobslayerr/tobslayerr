@@ -1,6 +1,6 @@
 import React from 'react';
 import Navbar from './Navbar';
-import avatar from "../assets/avatar.webp";
+import avatar from "../assets/Avatar.webp";
 import { techStack } from './data';
 import { motion } from 'framer-motion';
 
