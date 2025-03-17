@@ -1,5 +1,5 @@
 import React from 'react';
-import avatar from "../assets/avatar.webp";
+import avatar from "../assets/Avatar.webp";
 import { FaMapMarkerAlt, FaRegCalendarAlt, FaRegEnvelope } from 'react-icons/fa';
 import { MdOutlinePhoneIphone } from 'react-icons/md';
 
